@@ -1,6 +1,6 @@
 # syllabus2ics
 
-The code is copied from this article, I made some moderations to fit my own university(ShanghaiTech).
+The code is copied from [this article](https://sspai.com/post/39645), I made some changes to fit my own situation(ShanghaiTech).
 
 ## Usage
 
